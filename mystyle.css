@@ -1,0 +1,32 @@
+div {
+    background-color: navy;
+}
+
+body{
+    background-color: lightblue;
+    background-image: url(paper.gif);
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    /*Você consegue resumir as propriedades do background
+    em uma única linha
+    background: #ffffff url("paper.gif") no-repeat right top; */
+}
+    
+h1 {
+    /* Esse é um comentário */
+    color:white;
+    text-align: center;
+    font-family: Arial;
+    font-size: 40px;
+    background-color: navy;
+}
+
+p{
+    font-family: Verdana;
+    font-size: 20px;
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
