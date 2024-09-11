@@ -4,7 +4,6 @@ div {
 
 body{
     background-color: lightblue;
-    background-image: url(paper.gif);
     background-repeat: repeat-x;
     background-attachment: fixed;
     /*Você consegue resumir as propriedades do background
@@ -30,7 +29,8 @@ p{
     border-radius: 5px;
 
 }
-
+ /* .center é uma classe que eu coloquei nas imagens, 
+agora elas ficam padronizadas*/
 .center {
     display: block;
     margin-left: auto;
